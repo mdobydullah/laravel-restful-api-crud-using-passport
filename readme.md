@@ -4,14 +4,14 @@ In this tutorial, I’m going to show you how to build Laravel RESTful API with 
 [Build Laravel 5.8 RESTful API CRUD With Authentication Using Passport](https://www.mynotepaper.com/build-laravel-restful-api-crud-with-authentication-using-passport.html)
 
 ## Table of Contents
-1. [Install Laravel and Basic Configurations]()
-2. [Install Passport Package]()
-3. [Migrate and Install Passport]()
-4. [Passport Configuration]()
-5. [Create Book Table]()
-6. [Create Model and Controllers]()
-7. [Create API Routes]()
-8. [Call API using Postman]()
+1. [Install Laravel and Basic Configurations](https://www.mynotepaper.com/build-laravel-restful-api-crud-with-authentication-using-passport.html#step1)
+2. [Install Passport Package](https://www.mynotepaper.com/build-laravel-restful-api-crud-with-authentication-using-passport.html#step2)
+3. [Migrate and Install Passport](https://www.mynotepaper.com/build-laravel-restful-api-crud-with-authentication-using-passport.html#step3)
+4. [Passport Configuration](https://www.mynotepaper.com/build-laravel-restful-api-crud-with-authentication-using-passport.html#step4)
+5. [Create Book Table](https://www.mynotepaper.com/build-laravel-restful-api-crud-with-authentication-using-passport.html#step5)
+6. [Create Model and Controllers](https://www.mynotepaper.com/build-laravel-restful-api-crud-with-authentication-using-passport.html#step6)
+7. [Create API Routes](https://www.mynotepaper.com/build-laravel-restful-api-crud-with-authentication-using-passport.html#step7)
+8. [Call API using Postman](https://www.mynotepaper.com/build-laravel-restful-api-crud-with-authentication-using-passport.html#step8)
 
 
 ## Output
